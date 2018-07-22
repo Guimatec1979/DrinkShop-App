@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">O Rei do Suco</string>
+
+
+    <!--Facebook -->
+
+
+
+    <string name="FACEBOOK_APP_ID">1777429562343861</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">7ce7bf9526881124dfbd9da2d26d1bb7</string>
+
+
+</resources>
