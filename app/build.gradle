@@ -36,4 +36,17 @@ dependencies {
     //Integração facebook
     //implementation 'com.facebook.android:facebook-android-sdk:4.34.0'
     implementation 'com.facebook.android:account-kit-sdk:4.+'
+
+
+//Slider Layout
+    implementation 'com.android.support:support-v4:27.+'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.daimajia.slider:library:1.1.5@aar'
+
+//RxJava
+    implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
+    implementation 'io.reactivex.rxjava2:rxjava:2.1.9'
+
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
 }
